@@ -1,0 +1,97 @@
+*{
+  margin:0px;
+  padding:0px;
+  align: center;
+}
+h1,h3{
+  text-transform:capitalize;
+  text-align: center;
+  
+}
+h2{
+  margin-left:3px;
+}
+#navbar{
+  background-image:linear-gradient(to right,purple, orange);
+  color: white;
+  height:65px;
+  margin-top:0px;
+  borde:1px double black;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  
+ 
+}
+#logo{
+  margin-left:0px;
+  color: orange;
+ 
+}
+a
+{
+ color:#fbfbfb;
+  margin-right:100px;
+  margin-left;20px;
+}
+button {
+  background-color:red;
+  
+}
+header {
+  position: fixed;
+  top:0;
+  height:100px;
+  width:100%;
+}
+/*label{
+  margin-left:30px;
+}
+layout{
+  margin-left:50px;
+}*/
+table {
+  border:5px solid black;
+ height:200px;
+  width:40%;
+  margin:50px;
+  background-color:black;
+  color: white;
+}
+#details{
+  height:500px;
+  width:300px;
+}
+#td{
+  height:50px;
+  width:90%;
+ margin:2px;
+  
+}
+.t1{
+  width:300px;
+  height:70px;
+  margin:50px;
+}
+ .lb{
+   width:300px;
+   height:70px;
+   margin: 50px 50px 20px 50px;
+}
+footer {
+  background-color: purple;
+}
+#submitBtn{
+  background-color:green;
+  color:white;
+  height:30px;
+  width:80px;
+  border:solid;
+  padding:5px;
+  position:static;
+  margin:0px 40px 30px 40px;
+}
+.feedback{
+  margin:0;
+  font-size:20px;
+}
